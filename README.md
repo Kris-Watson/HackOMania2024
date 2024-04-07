@@ -2,15 +2,16 @@
 
 Smart Power Monitoring for Residential Flats
 
-### Introduction
+## Introduction
 
-The Smart Power Monitoring for Residential Flats (SPRF) is an IoT project aimed at providing real-time insights into the power usage of residential flats. By leveraging advanced IoT sensors and a robust backend infrastructure, SPCM enables residents to monitor their power consumption patterns, identify potential savings, perform preventive maintenance and 
+The Smart Power Monitoring for Residential Flats (SPRF) is an IoT project aimed at providing real-time insights into the power usage of residential flats. By leveraging advanced IoT sensors and a robust backend infrastructure, SPCM enables residents to monitor their power consumption patterns, identify potential savings, perform preventive maintenance and save the environment.
 Features
 
-Real-time Power Consumption Tracking: Get instant readings of your power usage.
-Historical Data Analysis: Review past consumption patterns for better insight and decision-making.
-Alerts and Notifications: Set custom alerts for unusual power usage.
-Easy Integration: Easy to implement and change
+### Qualitative data
+Real-time Power Consumption Tracking: Get instant readings of your power usage. Residents can see an immediate feedback to their actions.
+Historical Data Analysis: Review past consumption patterns for better insight and decision-making. SP group will obtain valuable data which can be used to analyse resident behavior and push relavent cost saving strategies 
+Alerts and Notifications: Set custom alerts for unusual power usage. Show users if there are likely faults or devices with below expected performance.
+Easy Integration: Easy to implement and change in case 
 
 ## Getting Started
 Prerequisites
