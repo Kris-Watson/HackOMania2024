@@ -12,7 +12,7 @@ Historical Data Analysis: Review past consumption patterns for better insight an
 Alerts and Notifications: Set custom alerts for unusual power usage.
 Easy Integration: Easy to implement and change
 
-## Getting Started
+# Getting Started
 Prerequisites
 
     Non-invasive current sensor(s) compatible with SPCM. We are using SEN0211.
@@ -29,13 +29,13 @@ Prerequisites
         We have used <INSERT WHATEVER HERE>
     bash
 
-# Clone the repository
+## Clone the repository
     git clone https://github.com/Kris-Watson/HackOMania2024/
 
-# Navigate to the project directory
+## Navigate to the project directory
     cd HackOMania2024/<INSERT>
 
-# Install dependencies
+## Install dependencies
 Libraries are installed from the Arduino IDE library manager. The libraries used in this project are:
         
 
